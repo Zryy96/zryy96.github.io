@@ -1,9 +1,9 @@
-# Al Azery's Portfolio 🌟
+# Zryy Portfolio 🌟
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and experiences as a web developer and tech enthusiast. Check it out at **[alazery.github.io](https://alazery.github.io/)** 🚀
 
 ## 🔥 About Me
-I'm **Al Azery**, a passionate developer with expertise in **Bootstrap 5, Laravel, PHP, and frontend technologies**. I enjoy building web applications and learning new tech stacks, especially in **AI Engineering** and **Web Development**.
+I'm **Zryy**, a passionate developer with expertise in **Bootstrap 5, Laravel, PHP, and frontend technologies**. I enjoy building web applications and learning new tech stacks, especially in **AI Engineering** and **Web Development**.
 
 ## 🛠️ Technologies Used
 - **HTML5 & CSS3** 🎨
